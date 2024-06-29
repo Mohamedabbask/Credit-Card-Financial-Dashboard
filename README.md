@@ -5,7 +5,7 @@ This is an interactive Power BI dashboard built for Weekly Credit Card Transacti
 * CSV file import 
 * Use of DAX functions SUM, FILTER, ALL, MAX to find Previous, Current week revenue. SWITCH function used to create a calculated column based on Income Group.
 
-# Visulaizations used
+# Visualizations used
 * Line Chart: Used to find Revenue by week, also to increase granularity of data through drill through.
 * Card: Used to determine KPIs like Total Revenue, Interest Amount, Transaction amount, Total income, Customer satisfaction score.
 * Treemap: Used to break data into Quarters, Genders, Card Category.
